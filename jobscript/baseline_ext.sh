@@ -8,4 +8,4 @@
 source $HOME/cosmosis/config/setup-cosmosis
 
 cd $HOME/cosmosis_chains_tutorial/configini/
-mpiexec -n $SLURM_NTASKS cosmosis --mpi params_baseline.ini 
+mpiexec -n $SLURM_NTASKS cosmosis --mpi params_baseline_ext.ini 
