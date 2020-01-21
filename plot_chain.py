@@ -128,3 +128,6 @@ def main():
 #############
 main()
 
+print "Check the output fig. Are your results same with `example` contours?"
+print "If yes, Congrat!! \n"
+
